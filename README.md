@@ -1,2 +1,0 @@
-# RealEstateProjectGit
-Author- Harleen Kaur
